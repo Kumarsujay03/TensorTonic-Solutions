@@ -1,5 +1,7 @@
 # TensorTonic Solutions
 
+<p align="center"><img src="docs/banner.png" alt="TensorTonic banner" width="100%"></p>
+
 My solutions to [TensorTonic](https://tensortonic.com) problems: core machine
 learning and deep learning algorithms implemented **from scratch** with NumPy,
 without ML libraries.
